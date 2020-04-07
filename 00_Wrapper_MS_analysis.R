@@ -11,6 +11,9 @@
 ## Place comet.2019014.win64.exe and comet.params in ./
 ## Place 191203_Uniprot_human_isoforms.fasta in ./FASTA
 ##
+## Comet is available from http://comet-ms.sourceforge.net/
+## Version 2019 rev4 was used to compute data. 
+##
 ## Author: Florian Weiland
 ##
 ## Date Created: 2020-04-06

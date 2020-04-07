@@ -12,7 +12,7 @@
 ## Place 191203_Uniprot_human_isoforms.fasta in ./FASTA
 ##
 ## Comet is available from http://comet-ms.sourceforge.net/
-## Version 2019 rev4 was used to compute data. 
+## Release 2019.01 rev. 4 was used to compute data. 
 ##
 ## Author: Florian Weiland
 ##
